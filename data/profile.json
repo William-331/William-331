@@ -16,15 +16,11 @@
     ]
   },
   "today": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "contributions": 0,
     "earned_xp": 0
   },
   "week": [
-    {
-      "date": "2026-11-20",
-      "count": 0
-    },
     {
       "date": "2026-11-21",
       "count": 0
@@ -47,6 +43,10 @@
     },
     {
       "date": "2026-11-26",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
       "count": 0
     }
   ],
@@ -77,13 +77,13 @@
     }
   ],
   "source": "github",
-  "updated_on": "2026-11-26",
+  "updated_on": "2026-11-27",
   "calendar_basis": "GitHub 贡献日历日期（UTC）；GitHub 可能延迟计入贡献。",
   "calendar": {
     "total": 57,
     "active_days": 13,
     "start": "2025-11-23",
-    "end": "2026-11-26",
+    "end": "2026-11-27",
     "days": [
       {
         "date": "2025-11-23",
@@ -1560,6 +1560,10 @@
       {
         "date": "2026-11-26",
         "count": 0
+      },
+      {
+        "date": "2026-11-27",
+        "count": 0
       }
     ]
   },
@@ -1691,7 +1695,7 @@
       "url": "https://github.com/William-331/William-331",
       "description": "William & Kouzi — a little cat growing with GitHub contributions, right in the profile README.",
       "language": "Python",
-      "updated_on": "2026-11-25",
+      "updated_on": "2026-11-26",
       "stars": 0,
       "forks": 0,
       "archived": false,
@@ -1745,7 +1749,7 @@
   },
   "visibility_note": "公开数据视角；与你登录后看到的私有贡献及组织信息可能不同。",
   "scrapbook": {
-    "days_together": 10,
+    "days_together": 11,
     "active_days": 2,
     "languages": [
       "HTML",

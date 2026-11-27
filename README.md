@@ -3,20 +3,20 @@
 个人项目与开发记录，外加一只叫 **扣子** 的猫。
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-room-dark.svg?v=3a21091662a4">
-  <img src="./assets/kouzi-room-light.svg?v=3a21091662a4" alt="窗边休息" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-room-dark.svg?v=625e09f48b1f">
+  <img src="./assets/kouzi-room-light.svg?v=625e09f48b1f" alt="窗边休息" width="900">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-passport-dark.svg?v=3a21091662a4">
-  <img src="./assets/kouzi-passport-light.svg?v=3a21091662a4" alt="扣子的成长记录" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-passport-dark.svg?v=625e09f48b1f">
+  <img src="./assets/kouzi-passport-light.svg?v=625e09f48b1f" alt="扣子的成长记录" width="900">
 </picture>
 
 ## 近七天
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-footprints-dark.svg?v=3a21091662a4">
-  <img src="./assets/kouzi-footprints-light.svg?v=3a21091662a4" alt="近七天贡献" width="630">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-footprints-dark.svg?v=625e09f48b1f">
+  <img src="./assets/kouzi-footprints-light.svg?v=625e09f48b1f" alt="近七天贡献" width="630">
 </picture>
 
 今日贡献 **0** · 今日经验 **0 XP**
@@ -25,8 +25,8 @@
 <summary>全年贡献</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-garden-dark.svg?v=3a21091662a4">
-  <img src="./assets/kouzi-garden-light.svg?v=3a21091662a4" alt="全年贡献：每格一天，颜色越深贡献越多" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kouzi-garden-dark.svg?v=625e09f48b1f">
+  <img src="./assets/kouzi-garden-light.svg?v=625e09f48b1f" alt="全年贡献：每格一天，颜色越深贡献越多" width="900">
 </picture>
 
 每格一天，颜色越深贡献越多。日期详情可在下方 GitHub 贡献区查看。
@@ -47,18 +47,18 @@
 ## 项目
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-1-dark.svg?v=3a21091662a4">
-  <img src="./assets/project-1-light.svg?v=3a21091662a4" alt="William-331.github.io：Aurora 3D Christmas Tree · 一个基于 Three.js 的单页 3D 圣诞树互动网站。页面展示可在圣诞树与星云形态之间切换的粒子场景，并将图片与音乐组合成可浏览的节日相册。" width="450">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-1-dark.svg?v=625e09f48b1f">
+  <img src="./assets/project-1-light.svg?v=625e09f48b1f" alt="William-331.github.io：Aurora 3D Christmas Tree · 一个基于 Three.js 的单页 3D 圣诞树互动网站。页面展示可在圣诞树与星云形态之间切换的粒子场景，并将图片与音乐组合成可浏览的节日相册。" width="450">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-2-dark.svg?v=3a21091662a4">
-  <img src="./assets/project-2-light.svg?v=3a21091662a4" alt="kaggle-spaceship-titanic：MLWcode - Spaceship Titanic Ensemble Pipeline · AI3023 Machine Learning Workshop course project. Team closeclaw@MLW." width="450">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-2-dark.svg?v=625e09f48b1f">
+  <img src="./assets/project-2-light.svg?v=625e09f48b1f" alt="kaggle-spaceship-titanic：MLWcode - Spaceship Titanic Ensemble Pipeline · AI3023 Machine Learning Workshop course project. Team closeclaw@MLW." width="450">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-3-dark.svg?v=3a21091662a4">
-  <img src="./assets/project-3-light.svg?v=3a21091662a4" alt="ML_PROJECT：TP53 基因突变预测 — 基于 METABRIC 乳腺癌 RNA 表达数据 · 本项目从零实现机器学习算法（不调用 scikit-learn 等 ML 库），利用 METABRIC 数据库中 489 个 RNA 基因表达特征 来预测乳腺癌样本的 TP53 抑癌基因突变状态（突变型 / 野生型）。" width="450">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-3-dark.svg?v=625e09f48b1f">
+  <img src="./assets/project-3-light.svg?v=625e09f48b1f" alt="ML_PROJECT：TP53 基因突变预测 — 基于 METABRIC 乳腺癌 RNA 表达数据 · 本项目从零实现机器学习算法（不调用 scikit-learn 等 ML 库），利用 METABRIC 数据库中 489 个 RNA 基因表达特征 来预测乳腺癌样本的 TP53 抑癌基因突变状态（突变型 / 野生型）。" width="450">
 </picture>
 
 <details>
@@ -66,7 +66,7 @@
 
 | 项目 | 技术 | 最近推送 | 简介 |
 | :--- | :--- | :--- | :--- |
-| William-331 | Python | 2026-11-25 | William &#38; Kouzi — a little cat growing with GitHub contributions, right in the profile README. |
+| William-331 | Python | 2026-11-26 | William &#38; Kouzi — a little cat growing with GitHub contributions, right in the profile README. |
 | William-331.github.io | HTML | 2026-09-14 | Aurora 3D Christmas Tree · 一个基于 Three.js 的单页 3D 圣诞树互动网站。页面展示可在圣诞树与星云形态之间切换的粒子场景，并将图片与音乐组合成可浏览的节日相册。 |
 | ML&#95;PROJECT | Python | 2026-07-17 | TP53 基因突变预测 — 基于 METABRIC 乳腺癌 RNA 表达数据 · 本项目从零实现机器学习算法（不调用 scikit-learn 等 ML 库），利用 METABRIC 数据库中 489 个 RNA 基因表达特征 来预测乳腺癌样本的 TP53 抑癌基因突变状态（突变型 / 野生型）。 |
 | kaggle-spaceship-titanic | Jupyter Notebook | 2026-07-17 | MLWcode - Spaceship Titanic Ensemble Pipeline · AI3023 Machine Learning Workshop course project. Team closeclaw&#64;MLW. |
@@ -128,4 +128,4 @@ GitHub 每日贡献会自动结算：0 次 → 0 XP，1–3 次 → 5 XP，4–9
 
 </details>
 
-<sub>领养于 2026-11-17 · 更新于 2026-11-26 · 每日同步</sub>
+<sub>领养于 2026-11-17 · 更新于 2026-11-27 · 每日同步</sub>
